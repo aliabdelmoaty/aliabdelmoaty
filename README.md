@@ -33,3 +33,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aliabdelmoaty&theme=nightowl"/>
+---
+
+## 👀 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/{aliabdelmoaty}/count.svg)
+
+---
