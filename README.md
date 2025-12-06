@@ -5,7 +5,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali;Flutter+Developer" alt="Typing Animation" />
 </h1>
-
 <p align="center">
   <a href="https://github.com/aliabdelmoaty">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7F7&center=true&vCenter=true&width=700&lines=Specialist+in+Flutter+development;Clean%2C+fast%2C+beautiful+UIs;Building+seamless+mobile+apps+with+Flutter" alt="Typing Animation" />
@@ -20,6 +19,7 @@
 ---
 
 - 💬 I work mainly with **Flutter, Dart, Java, and .NET (C#)**
+- 🌐 [My Portfolio](https://aliabdelmoaty.github.io/portfolio/)
 - 📧 Reach me at: **alibnabdelmoaty@gmail.com**  
 - 📋 [My Resume](https://drive.google.com/file/d/12hAYx3oXx3P-EvBEBbGQ1y5tW3f9bRjk/view?usp=sharing)
 
@@ -50,7 +50,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
-
 
 ---
 
