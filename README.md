@@ -3,11 +3,11 @@
 
 <!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali;Flutter+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali;Flutter+Developer" alt="Typing Animation" />
 </h1>
 <p align="center">
   <a href="https://github.com/aliabdelmoaty">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7F7&center=true&vCenter=true&width=700&lines=Specialist+in+Flutter+development;Clean%2C+fast%2C+beautiful+UIs;Building+seamless+mobile+apps+with+Flutter" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7F7&center=true&vCenter=true&width=700&lines=Specialist+in+Flutter+development;Clean%2C+fast%2C+beautiful+UIs;Building+seamless+mobile+apps+with+Flutter" alt="Typing Animation" />
   </a>
 </p>
 
@@ -55,13 +55,18 @@
 
 ### ⭐ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdelmoaty&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliabdelmoaty&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliabdelmoaty&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliabdelmoaty&show_icons=true&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliabdelmoaty&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliabdelmoaty&theme=radical&utcOffset=2" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliabdelmoaty&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliabdelmoaty&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aliabdelmoaty&theme=radical" />
 </p>
 
 ---
@@ -75,7 +80,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliabdelmoaty&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-trophies.vercel.app/?username=aliabdelmoaty&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
