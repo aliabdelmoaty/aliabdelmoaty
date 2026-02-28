@@ -71,6 +71,11 @@
 
 ---
 
+### 📅 Contribution Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/006400/aliabdelmoaty" alt="Ali's Contribution Graph" width="100%"/>
+</p>
+
 ### 📊 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliabdelmoaty&theme=nightowl"/>
