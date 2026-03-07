@@ -21,7 +21,7 @@
 - 💬 I work mainly with **Flutter, Dart, Java, and .NET (C#)**
 - 🌐 [My Portfolio](https://aliabdelmoaty.github.io/portfolio/)
 - 📧 Reach me at: **alibnabdelmoaty@gmail.com**  
-- 📋 [My Resume](https://aliabdelmoaty.github.io/portfolio/assets/docs/Ali_Mohamed_Flutter_Developer.pdf)
+- 📋 [My CV](https://drive.google.com/file/d/17qIkqInzZ7XjZH_1FBJsjLUcMsXuGyJF/view)
 
 ---
 
